@@ -2365,6 +2365,9 @@
 			.image.fit img {
 				width: 60%;
 			}
+                        .image.fit outreach img {
+				width: 32%;
+			}
 
 		.image.main {
 			display: block;
