@@ -2361,7 +2361,9 @@
 			margin: 0 0 -2em 0;
 			width: 100%;
 		}
-
+                        .image.fit index img {
+				width: 158%;
+			}
 			.image.fit img {
 				width: 60%;
 			}
