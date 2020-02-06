@@ -2366,10 +2366,20 @@
 				width: 60%;
 			}
 
-                        .image.fit.index img {
-			width: 158%;
+                   .image.fit.index {
+			display: block;
+			margin: 0 0 -2em 0;
+			width: 100%;
 			}
-                        .image.fit.outreach img {
+				.image.fit.index img {
+				width: 158%;
+			}
+                   .image.fit.outreach {
+			display: block;
+			margin: 0 0 -2em 0;
+			width: 100%;
+			}
+			image.fit.outreach img{
 				width: 32%;
 			}
 
